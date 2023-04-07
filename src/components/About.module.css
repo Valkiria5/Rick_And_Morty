@@ -1,0 +1,31 @@
+.about{
+    text-align: center;
+    border: 2px ;
+    width: fit-content;
+    border-radius: 20px;
+    background-color: rgb(243, 34, 226);
+    
+}
+.right {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center; 
+    width: auto;
+   }
+   .left {
+    display: inline-flex;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+   }
+.h2about {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+}
+.pabout{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+   
+}
