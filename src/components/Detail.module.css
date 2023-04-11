@@ -1,58 +1,38 @@
 .divdetail{
-    border: 2px solid rgb(234, 0, 255);
+    border: 7px solid rgb(158, 158, 158);
    width: fit-content;
-  border-radius: 1rem;
-  font-family:'Bad Script', cursive;
-  background-image: url(ass/wp3284832.webp);
+  border-radius: 2rem; 
+  margin: 0 auto;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 100px;
+  opacity: 0.8;
 }
 .h3d{
-    border: 2px solid rgb(234, 0, 255);
-    border-radius: 2rem;
-    padding: 0.5em 1em;
-    width: fit-content;
-    background-image: url(ass/th.jpg);
-    background-position: center;
-    color: black;
+    margin: 1 auto;
+
+    color: rgb(255, 255, 255);
 }
 .h32d{
-    border: 2px solid rgb(234, 0, 255);
-    border-radius: 2rem;
-    padding: 0.5em 1em;
-    width: fit-content;
-    background-image: url(ass/th.jpg);
-    background-position: center
+    margin: 1 auto;
+    color: white
 }
 .h33d{
-    border: 2px solid rgb(234, 0, 255);
-    border-radius: 2rem;
-    padding: 0.5em 1em;
-    width: fit-content;
-    background-image: url(ass/th.jpg);
-    background-position: center
+ color: white;
+ margin: 1 auto;
+
 }
 .h34d{
-    border: 2px solid rgb(234, 0, 255);
-    border-radius: 2rem;
-    padding: 0.5em 1em;
-    width: fit-content;
-    background-image: url(ass/th.jpg);
-    background-position: center
+    margin: 1 auto;
+  color: white;
+
 }
 .h35d{
-    border: 2px solid rgb(234, 0, 255);
-    border-radius: 2rem;
-    padding: 0.5em 1em;
-    width: fit-content;
-    background-image: url(ass/th.jpg);
-    background-position: center
+    margin: 1 auto;
+  color: white;
 }
 .h1d{
-    border: 2px solid rgb(234, 0, 255);
-    border-radius: 2rem;
-    padding: 0.5em 1em;
-    width: fit-content;
-    background-image: url(ass/th.jpg);
-    background-position: center;
+    color: white;
+    margin: 1 auto;
 }
 .imagend{
     border-radius: 20rem;

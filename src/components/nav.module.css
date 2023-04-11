@@ -1,28 +1,30 @@
 .button1{
-    font-family: 'Bad Script', cursive;
-    background-color: rgb(243, 34, 226);
+  font-family: 'Roboto', sans-serif;
+    background-color:rgb(88, 85, 88);
     color: white;
     padding: 0.5em 1em;
   border: 1px solid black;
   cursor: pointer;
   border-radius: 0.5rem;
+}
+.button2{
+  font-family: 'Roboto', sans-serif;
+    background-color: rgb(88, 85, 88);
+    color: white;
+    padding: 0.5em 1em;
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+.boton1{
+ float: right;
+ margin-right: 300px;
+margin-top: 30px;
 }
 
-.button2{
-    font-family: 'Bad Script', cursive;
-    background-color: rgb(243, 34, 226);
-    color: white;
-    padding: 0.5em 1em;
-  border: 1px solid black;
-  cursor: pointer;
-  border-radius: 0.5rem;
+.boton2{
+  float: right;
+  margin-top: 30px;
+  margin-right: 600px;
 }
-.divnav{
-    text-align: center;
-}
-.searchbar{
-    background-color: rgb(15, 255, 15);
-}
-.buttons{
-    background-color: rgb(15, 255, 15) ;
-}
+

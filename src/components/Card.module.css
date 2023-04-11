@@ -1,49 +1,39 @@
 .card{
-    background-color: rgb(65, 24, 65);
-    width: fit-content;
+    width: max-content;
     margin: 0 auto;
     border-radius: 1rem;
-    border: 2px solid rgb(214, 11, 255);
+    border: 9px solid rgb(0, 0, 0);
+    margin-top: 100px;
 }
 .lola{
     margin:0 auto;
 }
 .h3card{
     color: antiquewhite;
-    border: 2px solid white;
-    border-radius: 2rem;
     margin: 0 auto; 
     width: fit-content;
     padding: 0.5em 1em;
 }
 .h32{
     color: antiquewhite;
-    border: 2px solid white;
-    border-radius: 2rem;
     margin: 0 auto; 
     width: fit-content;
     padding: 0.5em 1em;
 }
 .h33{
     color: antiquewhite;
-    border: 2px solid white;
-    border-radius: 2rem;
     margin: 0 auto; 
     width: fit-content;
     padding: 0.5em 1em;
 }
 .h34{
     color: antiquewhite;
-    border: 2px solid white;
-    border-radius: 2rem;
     margin: 0 auto; 
     width: fit-content;
     padding: 0.5em 1em;
 }
 .h35{
     color: antiquewhite;
-    border: 2px solid white;
-    border-radius: 2rem;
     margin: 0 auto; 
     width: fit-content;
     padding: 0.5em 1em;

@@ -9,12 +9,16 @@ export default function Nav({onSearch}) {
              <SearchBar onSearch={onSearch} />
         </div>
         <div className={style.buttons}>
+            <div className={style.boton1}>
              <button className={style.button1} >
                 <Link to='/about'>ABOUT</Link>
             </button>
+            </div>
+            <div className={style.boton2}>
              <button className={style.button2}>
                 <Link to='/home'>HOME</Link>
-             </button>
+            </button>
+             </div> 
              </div>
         </div>
     )
