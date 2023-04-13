@@ -19,6 +19,11 @@ export default function Nav({onSearch}) {
                 <Link to='/home'>HOME</Link>
             </button>
              </div> 
+             <div className={style.boton3}>
+            <button className={style.button2}>
+                <Link to='/favorites'>FAVORITES</Link>
+            </button>
+            </div>
              </div>
         </div>
     )

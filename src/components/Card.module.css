@@ -35,8 +35,8 @@
 .h35{
     color: antiquewhite;
     margin: 0 auto; 
-    width: fit-content;
-    padding: 0.5em 1em;
+    text-align: center;
+   margin-top: -35px;
 }
 .imagencard{
     border-radius: 20rem;

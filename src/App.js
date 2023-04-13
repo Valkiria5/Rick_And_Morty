@@ -8,6 +8,7 @@ import Detail from './components/Detail';
 import About from './/components/About';
 import Form from './components/Form';
 import { useLocation, useNavigate } from 'react-router-dom';
+import Favorites from './components/Favorites';
 function App() {
    const[characters, setCharacters] = useState([])
    const[acces, setAcces] = useState(false);
@@ -54,6 +55,7 @@ function App() {
          <Route path='/home' element={ <Cards onClose = {onClose} characters={characters} />}></Route>
          <Route path='/detail/:id' element={<Detail/>}></Route>
          <Route path ='/' element={<Form login={login}/>}></Route>
+         <Route path = '/favorites' element ={<Favorites/>}></Route>
        </Routes>
        
       </div>
